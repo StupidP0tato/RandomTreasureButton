@@ -15,8 +15,7 @@ async def read_root():
             <title>Static Image</title>
         </head>
         <body>
-            <h1>Here is the image:</h1>
-            <img src="/static/ChestSymbol.png" alt="Chest Symbol">
+            <img src="/static/ChestSymbolSmall.png" alt="Chest Symbol">
         </body>
     </html>
     """
