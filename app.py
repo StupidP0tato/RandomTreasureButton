@@ -1,20 +1,22 @@
 from fastapi import FastAPI
-from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
+from fastapi.responses import HTMLResponse
 
 app = FastAPI()
 
-# Serve static files
+# Mount the static folder
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
-@app.get("/")
+@app.get("/", response_class=HTMLResponse)
 async def read_root():
-    return {"message": "Welcome to the FastAPI app! Access your image at /static/ChestSymbol.png"}
-
-@app.get("/image")
-async def get_image():
-    return FileResponse("static/ChestSymbol.png")
-
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    return """
+    <html>
+        <head>
+            <title>Static Image</title>
+        </head>
+        <body>
+            <h1>Here is the image:</h1>
+            <img src="/static/ChestSymbol.png" alt="Chest Symbol">
+        </body>
+    </html>
+    """
