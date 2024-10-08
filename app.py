@@ -30,6 +30,12 @@ async def read_root():
                     margin-top: 10px; /* Spacing between image and text */
                     font-size: 20px; /* Text size */
                 }
+                .result {
+                    margin-top: 20px;
+                    font-size: 18px;
+                    color: #333;
+                    font-style: italic;
+                }
             </style>
             <script>
                 async function getRandomItem() {
@@ -40,10 +46,13 @@ async def read_root():
             </script>
         </head>
         <body>
+            <h1>Press the Treasure Button!</h1>
             <button class="button" onclick="getRandomItem()">
                 <img src="/static/ChestSymbol.png" alt="Chest Symbol">
                 <span class="text">Treasure</span>
             </button>
+            <!-- Div to display the random item -->
+            <div id="result" class="result"></div>
         </body>
     </html>
     """
@@ -54,6 +63,3 @@ async def random_item():
     with open("randomItems.txt", "r") as file:
         items = file.readlines()
     return random.choice(items).strip()  # Return a random item, removing any extra whitespace
-
-
-
