@@ -14,29 +14,60 @@ async def read_root():
     <html>
         <head>
             <title>Treasure Button</title>
+            
             <style>
+                body {
+                    font-family: Arial, sans-serif;
+                }
+            
                 .button {
                     border: none;
                     background: none;
                     cursor: pointer;
                     text-align: center;
                 }
+            
                 .button img {
-                    width: 300px; /* Adjust size as needed */
+                    width: 100px; /* Adjust size as needed */
                     height: auto;
                 }
+            
                 .text {
                     display: block;
                     margin-top: 10px; /* Spacing between image and text */
                     font-size: 20px; /* Text size */
                 }
+            
                 .result {
                     margin-top: 20px;
                     font-size: 18px;
-                    color: #333;
                     font-style: italic;
                 }
-            </style>
+            
+                /* Light mode styles */
+                @media (prefers-color-scheme: light) {
+                    body {
+                        background-color: #f0f0f0;
+                        color: #333; /* Darker font color for light mode */
+                    }
+            
+                    .result {
+                        color: #333; /* Text color in light mode */
+                    }
+                }
+            
+                /* Dark mode styles */
+                @media (prefers-color-scheme: dark) {
+                    body {
+                        background-color: #121212;
+                        color: #f0f0f0; /* Lighter font color for dark mode */
+                    }
+            
+                    .result {
+                        color: #f0f0f0; /* Text color in dark mode */
+                    }
+                }
+            </style>          
             <script>
                 async function getRandomItem() {
                     const response = await fetch('/random-item');
