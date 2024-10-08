@@ -32,7 +32,6 @@ async def read_root():
             </style>
         </head>
         <body>
-            <h1>Press the Treasure Button!</h1>
             <button class="button" onclick="alert('You pressed the treasure!')">
                 <img src="/static/ChestSymbol.png" alt="Chest Symbol">
                 <span class="text">Treasure</span>
