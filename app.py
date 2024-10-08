@@ -1,3 +1,4 @@
+import random
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse
@@ -30,13 +31,28 @@ async def read_root():
                     font-size: 20px; /* Text size */
                 }
             </style>
+            <script>
+                async function getRandomItem() {
+                    const response = await fetch('/random-item');
+                    const item = await response.text();
+                    alert(item); // Display the random item, you can change this to display it differently if you want.
+                }
+            </script>
         </head>
         <body>
-            <button class="button" onclick="alert('You pressed the treasure!')">
+            <h1>Press the Treasure Button!</h1>
+            <button class="button" onclick="getRandomItem()">
                 <img src="/static/ChestSymbol.png" alt="Chest Symbol">
                 <span class="text">Treasure</span>
             </button>
         </body>
     </html>
     """
+
+@app.get("/random-item")
+async def random_item():
+    # Read the randomItems.txt file and return a random line
+    with open("randomItems.txt", "r") as file:
+        items = file.readlines()
+    return random.choice(items).strip()  # Return a random item, removing any extra whitespace
 
