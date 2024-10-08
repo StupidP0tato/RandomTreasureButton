@@ -46,10 +46,8 @@ async def read_root():
             </script>
         </head>
         <body>
-            <h1>Press the Treasure Button!</h1>
             <button class="button" onclick="getRandomItem()">
                 <img src="/static/ChestSymbol.png" alt="Chest Symbol">
-                <span class="text">Treasure</span>
             </button>
             <!-- Div to display the random item -->
             <div id="result" class="result"></div>
