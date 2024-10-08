@@ -35,7 +35,7 @@ async def read_root():
                 async function getRandomItem() {
                     const response = await fetch('/random-item');
                     const item = await response.text();
-                    alert(item); // Display the random item, you can change this to display it differently if you want.
+                    document.getElementById('result').innerText = item;
                 }
             </script>
         </head>
