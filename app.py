@@ -28,7 +28,7 @@ async def read_root():
                 }
             
                 .button img {
-                    width: 100px; /* Adjust size as needed */
+                    width: 300px; /* Adjust size as needed */
                     height: auto;
                 }
             
