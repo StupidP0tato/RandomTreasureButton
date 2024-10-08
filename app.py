@@ -22,7 +22,7 @@ async def read_root():
                     text-align: center;
                 }
                 .button img {
-                    width: 100px; /* Adjust size as needed */
+                    width: 300px; /* Adjust size as needed */
                     height: auto;
                 }
                 .text {
