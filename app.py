@@ -40,7 +40,6 @@ async def read_root():
             </script>
         </head>
         <body>
-            <h1>Press the Treasure Button!</h1>
             <button class="button" onclick="getRandomItem()">
                 <img src="/static/ChestSymbol.png" alt="Chest Symbol">
                 <span class="text">Treasure</span>
@@ -55,4 +54,6 @@ async def random_item():
     with open("randomItems.txt", "r") as file:
         items = file.readlines()
     return random.choice(items).strip()  # Return a random item, removing any extra whitespace
+
+
 
