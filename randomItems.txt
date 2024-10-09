@@ -1,7 +1,7 @@
 1. A wand that produces bubbles instead of spells
-2. A cursed ring that makes the wearer always tell the truth
-3. A bottle filled with glowing fairy dust
-4. A tattered old map that leads to nowhere
+2. A cursed ring that makes the wearer bleed whenever they lie
+3. A bottle filled with glowing astral dust
+4. A tattered old map that leads to an empty spot in the ruins
 5. A self-lighting lantern (though it’s always dim)
 6. A quill that writes in invisible ink
 7. A set of lockpicks made of silver
@@ -13,20 +13,20 @@
 13. A cursed spoon that turns all food tasteless
 14. A broken sword that once belonged to a famous hero
 15. A small birdcage with no door
-16. A talking skull with no memory of its past
+16. A talking skull-amulet with no memory of its past
 17. A pair of gloves that are always slightly too small
 18. A locket containing a moving picture of a stormy sea
 19. A teapot that always produces lukewarm tea
-20. A hat that changes color with the wearer’s mood
+20. A hat that changes colour with the wearer’s mood
 21. A cursed coin that always lands on heads
 22. A staff that hums softly when held
 23. A book that has one random page missing
-24. A crystal that glows when danger is near
+24. A crystal chalice that changes colour upon touching different kin
 25. A necklace made of teeth (human and animal)
 26. A small wooden box that hums when opened
 27. A hammer that never hits a nail straight
-28. A cursed cloak that makes the wearer invisible, but also mute
-29. A key that doesn’t open anything
+28. Cursed glasses that makes the wearer able to see magic, but also mute
+29. A key that belonging to a tavern cellar door
 30. A pouch that always feels like it's full of gold but is empty when opened
 31. A compass that points to the nearest bakery
 32. A talking toad with bad advice
@@ -35,66 +35,466 @@
 35. A mirror that always shows someone standing behind you
 36. A silver goblet that turns all liquids into wine
 37. A belt buckle shaped like a dragon’s head
-38. A coin that makes decisions for the user (heads = yes, tails = no)
-39. A ring that makes you invisible but only while sneezing
+38. An apple that can be spun around to grow back out after being eaten
+39. A spyglass that shows sounds rather than images
 40. A cursed diary that writes embarrassing secrets about the owner
 41. A shield with a faded family crest
 42. A broom that sweeps by itself, but only in circles
 43. A bag of marbles that return to you after being thrown
-44. A cursed bracelet that causes uncontrollable laughter at inappropriate moments
-45. A candle that never burns down but also never brightens
-46. A cursed pair of shoes that makes the wearer dance uncontrollably every night
-47. A necklace that glows when someone tells a lie
-48. A jar that’s always half full of pickles
+44. A cursed sword that makes the wielder, and anyone it cuts, mute
+45. A candle that grows slightly taller every hour
+46. Ornate shoes lined with small gemstones
+47. A necklace that glows faintly in the dark
+48. A jar of exquisite pickled vegetables
 49. A cloak that billows dramatically in the wind (even when there’s none)
 50. A dagger that’s unnaturally cold to the touch
-51. A horn that only makes fart sounds
+51. A clarinet that can only be heard by a person its aimed directly at
 52. A cursed pen that only writes poetry
-53. A small pouch that produces a random gem once a week
-54. A spyglass that shows distant places but only during a full moon
-55. A set of dice that always rolls sixes
+53. A small pouch filled with random gems and an ancient miniature figurine
+54. A spyglass that shows the dreams of people you look at but only during a full moon
+55. A set of dice that carries an insignia of an infamous person
 56. A tiny, intricately-carved music box that plays a haunting melody
-57. A cursed hourglass that speeds up time around it
-58. A pair of glasses that reveal hidden doors and passages
-59. A cloak that lets the wearer climb any surface, but only while whistling
-60. A cursed mirror that shows your reflection as a skeleton
+57. A small silver hourglass showing exactly ten minutes of time
+58. An elegant attire, fit for a noble
+59. A warm coat that is resistant to windy weather
+60. A set of hunting tools and equipment
 61. A lantern that repels insects
-62. A pair of boots that leave no tracks
-63. A cursed helm that makes the wearer overly confident
+62. A pair of winter boots that make it easier to walk on snow
+63. A cursed dice set that frequently knock things over 
 64. A whistle that summons a single, confused pigeon
-65. A coin purse that meows like a cat when opened
-66. A cursed scroll that can only be read backward
+65. A coin purse filled with gold coins and a note with the names of seven cats
+66. A scroll detailing a spoken ritual for summoning a ghost
 67. A ring that allows you to speak with plants
-68. A cursed shield that makes all attacks miss—by everyone, including the wielder
+68. A bottle of aged whisky that tastes pleasant yet a bit like copper 
 69. A jar of enchanted fireflies that never go out
 70. A feather quill that writes whatever it hears
-71. A cursed bracelet that makes the wearer overly polite
+71. A golden bracelet with the signature of a wealthy person
 72. A flute that attracts rats
-73. A cursed sword that glows in the presence of danger—but only after it’s too late
-74. A cursed ring that causes bad luck to anyone near the wearer
-75. A pair of earrings that make the wearer’s voice sound like someone else
-76. A flask that never spills its contents, even if overturned
-77. A broom that flies, but only 2 feet off the ground
+73. A masterwork sword engraved with the name of a known blacksmith 
+74. A set of two rings that function like flint and steel
+75. A necklace that make the wearer’s voice sound like someone else
+76. A flask medicinal alcohol that ameliorates pain, but quickly causes inebriation
+77. A recipe for the best apple cake ever made
 78. A rope that ties itself when commanded
 79. A cursed painting that changes scenes every day
-80. A pair of goggles that let the wearer see through walls, but only for 3 seconds at a time
-81. A stone that makes the user feel slightly heavier when carried
-82. A bell that only rings in the presence of ghosts
+80. A pair of goggles with adjustable zoom and a small chamber to place illuminating objects
+81. A stone with a slight crack and something sparkling inside
+82. A bell inscribed with "Call to me from beyond the veil"
 83. A crystal ball that shows the weather for the next day
-84. A cursed necklace that makes the wearer irresistibly attractive to rodents
-85. A small silver mirror that shows a random memory when looked into
-86. A cursed ring that prevents the wearer from sleeping
+84. A cursed sword that emits black flame upon impact, but also makes you less attactive
+85. A small silver mirror with rose ornamentation around the edge
+86. A bag of blue powder that induces sleepiness 
 87. A musical instrument that plays itself at midnight
 88. A cup that turns any liquid into milk
-89. A cursed scroll that causes whoever reads it to forget their own name for an hour
-90. A mirror that shows the reflection of your future self
-91. A cursed coin purse that doubles the gold inside, but only at the expense of someone else’s
+89. A scroll detailing an important even that took place years ago
+90. An axe that feels blunt but is lethal against anything made of wood
+91. A small leather purse with silver coins and a small note written to a forbidden lover
 92. A potion that makes the drinker smell like flowers for a day
-93. A necklace that makes the wearer invisible to insects
-94. A cursed mask that sticks to the wearer’s face for 24 hours
+93. A small music box that occasionally emits an ominous voice instead of a melody
+94. A festival mask used by nobles, and with golden tread embroidery
 95. A staff that summons a single flower when tapped on the ground
 96. A pair of gloves that make the wearer stronger, but also clumsier
-97. A cursed book that tells fortunes, but only the bad ones
+97. A book of insults, based on the actual encounters of an unpleasant bard
 98. A cloak that changes color to match its surroundings
-99. A shield that attracts arrows
-100. A cursed amulet that makes the wearer unable to speak lies, but also unable to speak truths
+99. A shield can be used to reflect sunlight
+100. A tiny figurine of a bird, with a secret chamber filled with something mysterious
+101. A small golden beetle that buzzes when treasure is nearby.
+102. A pair of gloves that allow the wearer to lift 10 pounds effortlessly.
+103. A candle that flickers in the presence of magic.
+104. A ring that changes color to match the wearer’s clothing.
+105. A belt that tightens itself to fit perfectly.
+106. A mug that keeps any drink at the perfect temperature.
+107. A pair of glasses that let the wearer see in the dark for 10 minutes.
+108. A cloak that flutters slightly even in the absence of wind.
+109. A spoon that stirs any liquid on command.
+110. A comb that untangles any hair, no matter how knotted.
+111. A lantern that glows with soft light, never running out of fuel.
+112. A pair of boots that stay dry, no matter the weather.
+113. A hat that repels rain.
+114. A small book that replays the last spoken sentence when tapped.
+115. A coin that always lands on its edge.
+116. A pebble that glows faintly in moonlight.
+117. A pouch that smells faintly of fresh herbs.
+118. A needle that always threads itself.
+119. A flute that plays a single calming note.
+120. A mirror that always shows the viewer’s best angle.
+121. A cloak that never wrinkles.
+122. A ring that keeps the wearer’s hands warm in cold weather.
+123. A key that fits any non-magical lock, though it only works once.
+124. A small stone that whispers an inspiring phrase when held.
+125. A teapot that whistles a cheerful tune when the water is boiling.
+126. A scarf that changes color based on the wearer’s mood.
+127. A belt that makes its wearer feel slightly more confident.
+128. A pen that never runs out of ink.
+129. A locket that glows faintly in the presence of someone trustworthy.
+130. A small bell that rings softly when danger approaches.
+131. A book that hums a calming tune when read.
+132. A feather that always floats in midair.
+133. A ring that causes flowers to bloom around the wearer.
+134. A coin that shows a brief vision of where it’s been every time it’s flipped.
+135. A broom that sweeps small messes without being touched.
+136. A potion that makes the drinker’s hair grow faster.
+137. A glove that lets the wearer feel the heartbeat of whatever they touch.
+138. A bottle that fills with a random non-magical liquid once a week.
+139. A mask that changes the wearer’s voice to a whisper.
+140. A necklace that softly hums when the wearer is calm.
+141. A ring that allows the wearer to write perfectly, even with shaky hands.
+142. A pair of boots that feel comfortable no matter how long they’re worn.
+143. A blanket that feels warm, no matter the weather.
+144. A quill that writes exactly what the writer is thinking.
+145. A crystal that glows faintly when held by someone with magical abilities.
+146. A pair of goggles that make everything appear slightly brighter.
+147. A small compass that always points to the nearest city.
+148. A hand mirror that shows a glimpse of the last person who held it.
+149. A ring that tightens just before the wearer is about to fall.
+150. A scarf that always smells faintly of lavender.
+151. A staff that creates a gust of wind strong enough to knock back enemies.
+152. A sword that bursts into flame when drawn, dealing extra fire damage.
+153. A ring that grants the wearer the ability to breathe underwater indefinitely.
+154. A cloak that allows the wearer to turn invisible for up to 10 minutes.
+155. A pair of boots that grant the wearer the ability to jump great distances.
+156. A shield that reflects magical attacks back at the caster.
+157. A potion that grants the drinker the ability to see through walls for 1 minute.
+158. A lantern that reveals hidden creatures and objects in a 30-foot radius.
+159. A necklace that lets the wearer heal themselves once per day.
+160. A dagger that returns to the wielder’s hand after being thrown.
+161. A staff that can summon a small storm cloud once per day.
+162. A ring that allows the wearer to become impervious to fire for 10 minutes.
+163. A book that allows the reader to learn any one spell for 24 hours.
+164. A belt that doubles the wearer’s strength for a short period.
+165. A shield that makes the wielder resistant to any form of damage for 5 minutes.
+166. A necklace that grants the wearer immunity to poison.
+167. A mirror that shows the future for 10 seconds once a month.
+168. A potion that grants the drinker the ability to fly for 1 hour.
+169. A pair of boots that allow the wearer to run twice as fast for an hour.
+170. A ring that grants telekinesis, allowing the wearer to move objects with their mind.
+171. A cloak that makes the wearer immune to non-magical weapons.
+172. A staff that allows the user to control water for a short period.
+173. A mask that lets the wearer see through illusions.
+174. A sword that can cut through any material.
+175. A ring that protects the wearer from psychic attacks.
+176. A potion that restores the drinker’s health fully.
+177. A necklace that grants the wearer immunity to lightning.
+178. A staff that summons a powerful elemental to fight for the wielder.
+179. A pair of gloves that allow the wearer to control fire.
+180. A horn that summons a spectral steed to carry the user for an hour.
+181. A book that lets the reader understand any written language.
+182. A ring that makes the wearer invisible to undead creatures.
+183. A mirror that allows the user to communicate with anyone they’ve met.
+184. A sword that can freeze enemies upon contact.
+185. A pair of boots that let the wearer walk on walls and ceilings.
+186. A shield that creates a protective barrier around the wielder for 1 minute.
+187. A staff that lets the user control plants.
+188. A ring that allows the wearer to walk through walls once per day.
+189. A potion that makes the drinker immune to all damage for 1 minute.
+190. A necklace that grants the wearer the ability to speak with the dead.
+191. A mirror that can trap the reflection of a creature, imprisoning it for 24 hours.
+192. A ring that allows the wearer to teleport short distances.
+193. A pair of gloves that give the wearer the ability to manipulate metal.
+194. A cloak that turns the wearer into a shadow, making them intangible.
+195. A staff that can summon a small earthquake.
+196. A potion that grants the drinker superhuman strength for 10 minutes.
+197. A sword that deals additional radiant damage to evil creatures.
+198. A ring that lets the wearer control time for 10 seconds once per day.
+199. A necklace that grants the wearer telepathy within 1 mile.
+200. A cloak that allows the wearer to travel through the Ethereal Plane for 1 minute.
+201. A hat that makes the wearer speak in a different accent every hour.
+202. A ring that causes the wearer to hiccup uncontrollably whenever they try to lie.
+203. A necklace that makes the wearer irresistibly hungry but only for food they dislike.
+204. A pair of shoes that squeak loudly with every step but only in complete silence.
+205. A sword that whispers jokes, none of which are ever funny.
+206. A mirror that shows an exaggerated and distorted version of the viewer’s emotions.
+207. A cloak that turns the wearer invisible, but only when they close their eyes.
+208. A staff that summons harmless but highly annoying bees whenever it’s used.
+209. A shield that causes the wielder to sing loudly whenever it deflects a blow.
+210. A book that offers useless advice at the most critical moments.
+211. A dagger that slips out of the user’s hand at random times during combat.
+212. A potion that makes the drinker temporarily speak only in gibberish.
+213. A mask that changes the wearer’s face to resemble someone they dislike.
+214. A pair of boots that occasionally cause the wearer to trip over nothing.
+215. A ring that causes the wearer to sneeze violently when they’re about to finish an important task.
+216. A necklace that attracts annoying insects to the wearer.
+217. A staff that grows slightly heavier every time it is used.
+218. A quill that writes offensive comments in the margins of any book.
+219. A cloak that makes the wearer constantly feel like they’re being watched.
+220. A pair of gloves that make everything the wearer touches feel slightly sticky.
+221. A ring that causes the wearer’s hair to grow uncontrollably during stressful situations.
+222. A mirror that shows the viewer an overly flattering reflection that others can't see.
+223. A sword that always makes the wielder miss their first attack in any combat.
+224. A pair of boots that leave glowing footprints visible to everyone except the wearer.
+225. A hat that makes the wearer’s head itch uncontrollably whenever they’re near gold.
+226. A necklace that causes the wearer to loudly state obvious facts.
+227. A ring that makes the wearer hear whispers whenever they are alone.
+228. A cloak that feels incredibly heavy when the wearer is being followed.
+229. A pair of shoes that make the wearer walk in circles unless actively concentrating.
+230. A shield that makes the user overly confident, often resulting in reckless behavior.
+231. A staff that causes nearby animals to follow the user, but they do not listen to commands.
+232. A ring that forces the wearer to tell awkward truths when asked direct questions.
+233. A pair of glasses that magnify everything, including the wearer’s minor insecurities.
+234. A mask that makes everyone who looks at the wearer feel slightly uncomfortable.
+235. A sword that sings loudly when drawn, making stealth impossible.
+236. A potion that temporarily makes the drinker extremely clumsy.
+237. A book that changes its contents to nonsense whenever the reader gets to a critical part.
+238. A ring that makes the wearer randomly forget simple words.
+239. A cloak that makes the wearer feel unbearably cold whenever they’re nervous.
+240. A mirror that always reflects an object just out of the viewer's reach.
+241. A staff that causes the user to sneeze whenever they cast a spell.
+242. A pair of boots that make the wearer take unnecessarily long steps.
+243. A sword that glows, but only when it’s absolutely unnecessary.
+244. A necklace that makes the wearer’s voice sound like it’s coming from behind them.
+245. A hat that makes the wearer’s hair stand on end during conversations.
+246. A ring that causes the wearer’s hands to twitch uncontrollably in awkward social settings.
+247. A mask that constantly changes the wearer’s facial expression without their knowledge.
+248. A pair of gloves that make everything the wearer holds feel slightly heavier than it is.
+249. A cloak that makes the wearer constantly feel like they’ve forgotten something important.
+250. A sword that’s unbearably cold to the touch but doesn’t deal any ice damage.
+251. A rusty key that fits no known lock.
+252. A small wooden spoon with intricate carvings.
+253. A half-burned candle that still smells of lavender.
+254. A chipped glass bottle with an unknown liquid inside.
+255. A woolen scarf that’s too short for any practical use.
+256. A leather-bound notebook filled with empty pages.
+257. A dull knife that struggles to cut anything tougher than bread.
+258. A cracked mirror with no special properties.
+259. A wooden cup stained from years of use.
+260. A tarnished silver locket with no photo inside.
+261. A handkerchief embroidered with a fading family crest.
+262. A small pouch filled with dust and pebbles.
+263. A pair of worn-out sandals.
+264. A tiny music box that no longer plays its tune.
+265. A compass that always points slightly off north.
+266. A broken lantern missing its glass.
+267. A fishing hook tied to an old piece of string.
+268. A faded map of an unrecognizable region.
+269. A cracked clay pot.
+270. A worn-out leather belt.
+271. A single, rusted nail.
+272. A quill with a broken feather.
+273. A length of rope fraying at both ends.
+274. A small vial filled with sand.
+275. A wooden toy soldier missing an arm.
+276. A broken hourglass with no sand left inside.
+277. A tarnished brass button.
+278. A dull, gray rock that’s unusually smooth.
+279. A pair of glasses with one lens cracked.
+280. A wooden flute with a hole plugged.
+281. A sack filled with rotting vegetables.
+282. A clay mug with a chip in the rim.
+283. A hand-carved pipe, unlit for years.
+284. A half-empty jar of pickled onions.
+285. A wooden comb with several missing teeth.
+286. A broken pocket watch stuck at noon.
+287. A moth-eaten woolen cloak.
+288. A wooden bowl worn smooth from use.
+289. A fishing net with a large tear.
+290. A small pouch containing only lint.
+291. A rusty nail bent at an odd angle.
+292. A small hammer with a splintered handle.
+293. A piece of charcoal wrapped in cloth.
+294. A stack of blank, yellowed parchment.
+295. A chipped seashell.
+296. A single iron shoe buckle.
+297. A frayed leather whip.
+298. A pouch of stale bread crumbs.
+299. A pair of wool socks with holes.
+300. A broken fiddle missing two strings.
+301. A wooden box filled with mismatched buttons.
+302. A piece of string that’s just long enough to tie a bow.
+303. A torn flag from an unknown kingdom.
+304. A leather bracer that no longer fits.
+305. A cracked wine bottle filled with water.
+306. A wooden stake with a dull point.
+307. A broken shovel head without a handle.
+308. A tin whistle that only makes a faint squeak.
+309. A bag of marbles, most of which are chipped.
+310. A piece of chalk worn down to a nub.
+311. A worn-out brush missing half its bristles.
+312. A spool of thread with only a few feet remaining.
+313. A single silver coin, too bent to be used.
+314. A faded letter written in an unknown language.
+315. A brass door handle without a door.
+316. A small pouch of dull copper coins.
+317. A worn-out leather satchel with broken straps.
+318. A tattered cloth banner of a long-forgotten house.
+319. A rusty hand saw with a broken handle.
+320. A wooden bucket with a large crack in the side.
+321. A bundle of dried herbs, no longer fragrant.
+322. A pair of worn leather boots with missing laces.
+323. A cracked plate with faded floral patterns.
+324. A feather quill with a bent tip.
+325. A jar of spoiled jam.
+326. A wooden ladle with a splintered edge.
+327. A piece of faded parchment with an unfinished drawing.
+328. A small sack filled with cracked walnuts.
+329. A stone with a natural hole through its center.
+330. A straw hat with a large hole in the brim.
+331. A wooden spoon that’s been burned on one end.
+332. A handful of rusty nails.
+333. A cracked wooden crate, partially rotted.
+334. A broken horseshoe.
+335. A handful of dried beans.
+336. A bent fork missing a prong.
+337. A faded portrait of an unknown family.
+338. A cracked glass bead.
+339. A single wooden chess piece, a knight.
+340. A metal thimble with a dent in it.
+341. A broken clasp from an old cloak.
+342. A stained glass jar.
+343. A thin strip of leather tied in a knot.
+344. A small clay figurine of a bird, missing its beak.
+345. A pair of broken scissors.
+346. A cracked wooden jewelry box.
+347. A worn horseshoe with nail holes.
+348. A handful of bent copper coins.
+349. A piece of flint with a smooth surface.
+350. A half-finished tapestry, now fraying.
+351. A single boot with a hole in the sole.
+352. A tattered scarf of faded green wool.
+353. A chipped stone axe head.
+354. A small wooden toy horse missing its wheels.
+355. A tin cup with a bent rim.
+356. A small ball of tangled string.
+357. A worn, empty coin purse.
+358. A single candle that’s almost burned out.
+359. A cracked glass bottle with a cork stopper.
+360. A wooden spoon stained with old soup.
+361. A broken wagon wheel.
+362. A bundle of firewood that’s mostly damp.
+363. A rusty metal key with no known lock.
+364. A cracked teapot with a chipped spout.
+365. A small pile of old, moldy cheese.
+366. A bent metal fork.
+367. A clay pipe with a chipped bowl.
+368. A piece of faded cloth tied in a knot.
+369. A small mirror with a broken frame.
+370. A cracked metal pot with missing handles.
+371. A handful of broken pottery shards.
+372. A wooden spoon carved with strange symbols.
+373. A broken leather belt with a tarnished buckle.
+374. A single, rusted horseshoe nail.
+375. A small pile of hay tied with string.
+376. A dented metal cup.
+377. A set of rusty tongs.
+378. A chipped stone mortar without a pestle.
+379. A torn leather glove.
+380. A single iron key with no lock.
+381. A broken broom handle.
+382. A cracked wooden box with metal hinges.
+383. A stained wool blanket.
+384. A handful of bent, rusted coins.
+385. A torn map of an unknown location.
+386. A broken fishing rod with no line.
+387. A dull, scratched knife.
+388. A small wooden chest with a broken lock.
+389. A piece of charcoal wrapped in old cloth.
+390. A cracked leather hat.
+391. A pair of broken reading glasses.
+392. A single metal button.
+393. A broken stone figurine of a cat.
+394. A handful of loose straw.
+395. A small bundle of old, damp cloth.
+396. A bent iron nail.
+397. A wooden carving of a fish, missing its tail.
+398. A broken clay pot.
+399. A torn leather pouch.
+400. A chipped tin cup.
+401. A rusty old horseshoe.
+402. A handful of dry leaves.
+403. A cracked iron pot.
+404. A bent metal spoon.
+405. A faded cloth bag filled with pebbles.
+406. A small leather strap, worn with age.
+407. A broken quill with a faded feather.
+408. A rusty key with no lock.
+409. A small pouch filled with sand.
+410. A bent piece of copper wire.
+411. A small stone with a hole through it.
+412. A wooden box filled with dried grass.
+413. A faded piece of cloth tied with twine.
+414. A broken clay bowl.
+415. A single wooden peg.
+416. A cracked glass vial.
+417. A torn scrap of parchment with illegible writing.
+418. A bent silver fork.
+419. A small piece of polished wood.
+420. A worn, wooden plank with scorch marks.
+421. A small pile of ash in a cloth bag.
+422. A faded leather strap.
+423. A broken metal buckle.
+424. A piece of dried bone.
+425. A single rusty nail.
+426. A piece of coal wrapped in cloth.
+427. A faded ribbon tied in a bow.
+428. A cracked stone tablet.
+429. A cracked silver goblet with intricate engravings.
+430. A small pouch containing a handful of precious gems.
+431. A fine silk handkerchief embroidered with a family crest.
+432. A silver knife engraved with a beautiful insignia.
+433. A delicate porcelain figurine of a dancer.
+434. A small, ornate jewelry box filled with costume jewelry.
+435. A gold-plated bracelet with a missing gem.
+436. A carved ivory chess piece of a queen.
+437. A fine leather diary with a silver clasp.
+438. A glass vial filled with rare blue liquid.
+439. A gemstone pendant that sparkles in the light.
+440. A small ruby set in a simple silver ring.
+441. A delicate chain necklace with a single pearl.
+442. A silver belt buckle shaped like a dragon.
+443. A piece of obsidian shaped like a dagger.
+444. A beautifully crafted wooden flute with silver inlays.
+445. A sparkling diamond the size of a marble.
+446. A jade figurine of a mythical creature.
+447. A finely crafted silver bracelet with intricate designs.
+448. A small emerald set in an antique locket.
+449. A golden brooch shaped like a phoenix.
+450. A pouch containing various precious gemstones.
+451. A leather-bound spellbook with gilded edges.
+452. A pair of silver earrings shaped like stars.
+453. A beautifully carved stone bowl.
+454. A delicate silver hairpin adorned with gemstones.
+455. A sapphire-studded crown made for a child.
+456. A set of fine porcelain tea cups with gold trim.
+457. A beautifully woven tapestry depicting a battle scene.
+458. A silver flask engraved with a family motto.
+459. A small lock of hair braided with a gold thread.
+460. A gold ring with a large black stone.
+461. A small piece of beautifully polished marble.
+462. A fine silk scarf in vibrant colors.
+463. A diamond-encrusted ring that no longer fits.
+464. A leather pouch containing ancient coins.
+465. A piece of rare wood carved into a miniature boat.
+466. A crystal orb that glows faintly in the dark.
+467. A silver chain with an intricate design.
+468. A finely crafted dagger with a jeweled hilt.
+469. A delicate necklace with a single sparkling stone.
+470. A small pouch of fragrant herbs.
+471. A woven basket filled with dried flowers.
+472. A wooden box with a hidden compartment.
+473. A small fishing lure made of gold.
+474. A handmade quilt with intricate patterns.
+475. A leather map case filled with old maps.
+476. A small bronze bell that rings softly.
+477. A painted wooden horse figurine.
+478. A glass bottle containing a swirling mist.
+479. A small compass that always points east.
+480. A rusted old sword with a beautiful hilt.
+481. A scrap of parchment with a treasure map.
+482. A faded family portrait in a tarnished frame.
+483. A carved wooden mask used in festivals.
+484. A silver-plated goblet with a dent.
+485. A small jar of honey from a rare flower.
+486. A woven bracelet made from colorful threads.
+487. A small bell with an intricate design.
+488. A small pouch filled with dried fruit.
+489. A handmade wooden toy carved into an animal.
+490. A piece of woven grass shaped like a basket.
+491. A sturdy leather belt with a brass buckle.
+492. A set of mismatched silverware.
+493. A carved wooden spoon used for cooking.
+494. A hand-painted vase with flowers on it.
+495. A small pouch filled with tiny pebbles.
+496. A metal toy soldier, tarnished with age.
+497. A half-used candle with a faint scent.
+498. A small metal box that rattles when shaken.
+499. A faded tapestry that tells a story of old.
+500. A piece of driftwood shaped by the sea.
